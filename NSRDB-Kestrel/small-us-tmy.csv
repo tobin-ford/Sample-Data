@@ -1,0 +1,80 @@
+,latitude,longitude,altitude,tz,country,state,county,wind_height
+150803,47.05,-121.5,1608,-8,United States,Washington,Pierce,2
+150883,43.85,-121.5,1302,-8,United States,Oregon,Deschutes,2
+150963,40.65,-121.5,1557,-8,United States,California,Shasta,2
+151043,37.45,-121.5,941,-8,United States,California,Santa Clara,2
+203163,47.05,-118.3,540,-8,United States,Washington,Adams,2
+203243,43.85,-118.3,1189,-8,United States,Oregon,Harney,2
+203323,40.65,-118.3,1268,-8,United States,Nevada,Pershing,2
+203403,37.45,-118.3,1730,-8,United States,California,Inyo,2
+203483,34.25,-118.3,575,-8,United States,California,Los Angeles,2
+261031,47.05,-115.1,1988,-8,United States,Montana,Mineral,2
+261111,43.85,-115.1,2443,-7,United States,Idaho,Elmore,2
+261191,40.65,-115.1,1919,-8,United States,Nevada,Elko,2
+261271,37.45,-115.1,1662,-8,United States,Nevada,Lincoln,2
+261351,34.25,-115.1,197,-8,United States,California,San Bernardino,2
+326847,47.05,-111.9,1316,-7,United States,Montana,Lewis and Clark,2
+326927,43.85,-111.9,1472,-7,United States,Idaho,Madison,2
+327007,40.65,-111.9,1327,-7,United States,Utah,Salt Lake,2
+327087,37.45,-111.9,1950,-7,United States,Utah,Kane,2
+327167,34.25,-111.9,1490,-7,United States,Arizona,Yavapai,2
+397523,47.05,-108.7,1041,-7,United States,Montana,Fergus,2
+397603,43.85,-108.7,1813,-7,United States,Wyoming,Hot Springs,2
+397683,40.65,-108.7,1959,-7,United States,Colorado,Moffat,2
+397763,37.45,-108.7,2009,-7,United States,Colorado,Montezuma,2
+397843,34.25,-108.7,2242,-7,United States,New Mexico,Catron,2
+471192,47.05,-105.5,930,-7,United States,Montana,Prairie,2
+471272,43.85,-105.5,1477,-7,United States,Wyoming,Campbell,2
+471352,40.65,-105.5,2465,-7,United States,Colorado,Larimer,2
+471432,37.45,-105.5,2386,-7,United States,Colorado,Costilla,2
+471512,34.25,-105.5,1995,-7,United States,New Mexico,Lincoln,2
+471592,31.05,-105.5,1177,-7,United States,Texas,Hudspeth,2
+554259,47.05,-102.3,643,-7,United States,North Dakota,Dunn,2
+554339,43.85,-102.3,848,-7,United States,South Dakota,Pennington,2
+554419,40.65,-102.3,1145,-7,United States,Colorado,Phillips,2
+554499,37.45,-102.3,1205,-7,United States,Colorado,Baca,2
+554579,34.25,-102.3,1125,-6,United States,Texas,Lamb,2
+554659,31.05,-102.3,698,-6,United States,Texas,Crockett,2
+640347,47.05,-99.1,542,-6,United States,North Dakota,Stutsman,2
+640427,43.85,-99.1,510,-6,United States,South Dakota,Brule,2
+640507,40.65,-99.1,658,-6,United States,Nebraska,Kearney,2
+640587,37.45,-99.1,585,-6,United States,Kansas,Kiowa,2
+640667,34.25,-99.1,360,-6,United States,Oklahoma,Tillman,2
+640747,31.05,-99.1,469,-6,United States,Texas,McCulloch,2
+640827,27.85,-99.1,145,-6,United States,Texas,Webb,2
+722565,47.05,-95.9,420,-6,United States,Minnesota,Becker,2
+722645,43.85,-95.9,530,-6,United States,Minnesota,Nobles,2
+722725,40.65,-95.9,346,-6,United States,Nebraska,Otoe,2
+722805,37.45,-95.9,298,-6,United States,Kansas,Wilson,2
+722885,34.25,-95.9,154,-6,United States,Oklahoma,Atoka,2
+722965,31.05,-95.9,97,-6,United States,Texas,Madison,2
+789452,47.05,-92.7,392,-6,United States,Minnesota,Saint Louis,2
+789532,43.85,-92.7,394,-6,United States,Minnesota,Mower,2
+789612,40.65,-92.7,280,-6,United States,Iowa,Appanoose,2
+789692,37.45,-92.7,399,-6,United States,Missouri,Webster,2
+789772,34.25,-92.7,123,-6,United States,Arkansas,Hot Spring,2
+789852,31.05,-92.7,49,-6,United States,Louisiana,Rapides,2
+860900,47.05,-89.5,179,-5,United States,Michigan,Lake Superior,2
+860980,43.85,-89.5,286,-6,United States,Wisconsin,Marquette,2
+861060,40.65,-89.5,215,-6,United States,Illinois,Tazewell,2
+861140,37.45,-89.5,171,-6,United States,Missouri,Cape Girardeau,2
+861220,34.25,-89.5,127,-6,United States,Mississippi,Lafayette,2
+861300,31.05,-89.5,99,-6,United States,Mississippi,Lamar,2
+930307,47.05,-86.3,179,-5,United States,Michigan,Lake Superior,2
+930387,43.85,-86.3,211,-5,United States,Michigan,Mason,2
+930467,40.65,-86.3,232,-5,United States,Indiana,Cass,2
+930547,37.45,-86.3,197,-6,United States,Kentucky,Grayson,2
+930627,34.25,-86.3,296,-6,United States,Alabama,Marshall,2
+930707,31.05,-86.3,89,-6,United States,Alabama,Covington,2
+997423,43.85,-83.1,211,-5,United States,Michigan,Huron,2
+997503,40.65,-83.1,297,-5,United States,Ohio,Marion,2
+997583,37.45,-83.1,385,-5,United States,Kentucky,Knott,2
+997663,34.25,-83.1,243,-5,United States,Georgia,Hart,2
+997743,31.05,-83.1,64,-5,United States,Georgia,Lanier,2
+1066895,40.65,-79.9,329,-5,United States,Pennsylvania,Allegheny,2
+1066975,37.45,-79.9,431,-5,United States,Virginia,Botetourt,2
+1067055,34.25,-79.9,48,-5,United States,South Carolina,Darlington,2
+1155627,40.65,-76.7,227,-5,United States,Pennsylvania,Dauphin,2
+1260416,43.85,-73.5,354,-5,United States,New York,Essex,2
+1260496,40.65,-73.5,2,-5,United States,New York,Nassau,2
+1364159,43.85,-70.3,105,-5,United States,Maine,Cumberland,2
